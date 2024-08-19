@@ -31,6 +31,15 @@ header {
   font-size: 30px;
   font-weight: 700;
   margin-bottom: 0px;
+  color: rgb(107, 95, 218);
+}
+
+.rounds .guess-label {
+  color: rgb(236, 91, 91);
+}
+
+#target-number{
+  font-size: 25px;
 }
 
 .guess {
